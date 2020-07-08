@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navbar part start==================================================== */
+.nav{
+    background-color: #F0FFF0;
+}
+.bg-light{
+    background-color: #F0FFF0 !important;
+    margin: -15px;
+    padding: 35px;
+}
+.navbar-brand img{
+    width: 45%;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000;
+    padding-left: 32px;
+    margin-left: 16px;
+}
+.sign{
+    color: #fff !important;
+    padding: 8px 29px;
+    background: #21B573;
+    border-radius: 33px;
+    width: 104px;
+    
+}
+/* navbar part ends================================================ */
+
+/* banner part start=============================================== */
+
+
+.banner-part{
+    background: #F0FFF0;
+}
+.illustator img{
+    width: 90%;
+    padding: 35px 0px;
+}
+.banner-text{
+    padding: 25px 65px;
+    text-align: left;
+}
+.banner-text h6{
+    color: #FD511A;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-text h2{
+    color: #000000;
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.banner-text h3{
+    color: #000000;
+    font-size: 48px;
+    line-height: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.banner-text h3 span{
+    color: #21B573;
+}
+.banner-text p{
+    width: 400px;
+    color: #6C6B6B;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.btn-success{
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+    margin-top: 20px;
+}
+
+/* banner part ends================================================= */
+
+/* topics part start======================================= */
+
+.card{
+    padding: 16px 16px;
+    background: #F8FFFB;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    border: 1px solid #F0FFF0;
+}
+.card-body{
+    padding: 1em;
+}
+.card-img-top{
+    width: 25%;
+}
+.card-body{
+    text-align: center;
+}
+.card-body h4{
+    font-size: 24px;
+    font-weight: 500;
+    color: #413960;
+    font-family: 'Poppins', sans-serif;
+
+}
+.card-body p{
+    font-size: 16px;
+    color: #585859;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* topics part ends==================================== */
+
+
+/* courses part start ====================*/
+
+
+
+h4{
+     color: #413960;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 100px;
+}   
+.card-title{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'Poppins', sans-serif;
+}
+.card-text{
+    color: #585859;
+    font-size: 16px;
+    line-height: 24px;
+}
+.calender{
+    padding: 0;
+    margin-top: 5px
+}
+.seats{
+    padding: 0;
+    margin-top: 10px
+}
+.footimg{
+    width: 50%;
+}
+.footimge{
+    width: 80%;
+}
+.card-footer{
+    background: white;
+    border-top: none;
+}
+.card-footer p{
+    color: #585859;
+    font-size: 12px;
+    
+}
+/* course part ends =================================== */
+
+/* testimonial part css==================================== */
+
+.testi-pic img{
+    width: 25%;
+
+}
+.testi-text{
+    color: #000000;
+    font-size: 16px;
+  line-height: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* testimonial part ends============= */
+
+/* footer part start======================================= */
+
+.footer-part{
+    margin-top: 100px;
+    background: #282531;
+    color: #fff;
+    padding: 80px;
+    
+}
+.footer-part ul li{
+    list-style: none;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-part .head{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.copy{
+    padding: 0;
+}
+
+.copyright{
+    background: #282531;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+    
+}
+/* footer part ends============= */
